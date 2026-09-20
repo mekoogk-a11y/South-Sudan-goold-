@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ssgoldexchange.com/sitemap.xml

@@ -1,0 +1,6 @@
+{
+  "name": "South Sudan Gold Exchange & Brokerage",
+  "description": "Professional gold buying, brokerage, and market intelligence platform based in Juba, Republic of South Sudan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
